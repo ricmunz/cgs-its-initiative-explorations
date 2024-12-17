@@ -18,7 +18,7 @@ The content is structured as follows:
     Panopto and Canvas working together to enhance course materials, leveraging Panopto's video hosting and management features.
 
 
-<br><br><br><br>
+<br><br>
 
 > [!NOTE]
 >
