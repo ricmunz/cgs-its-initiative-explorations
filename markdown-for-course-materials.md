@@ -8,7 +8,18 @@
 >
 > Modernizing existing course materials to use Markdown (MD files) in the content creation and maintenance process offers several distinct advantages, particularly in environments like Canvas, where the goal is to streamline workflows and increase flexibility. Here are some of the key benefits of using Markdown for course content:
 
+- [Markdown for Course Materials](#markdown-for-course-materials)
+    - [1. **Simplicity and Ease of Use**](#1-simplicity-and-ease-of-use)
+    - [2. **Portability and Flexibility**](#2-portability-and-flexibility)
+    - [3. **Consistency and Readability**](#3-consistency-and-readability)
+    - [4. **Maintainability and Scalability**](#4-maintainability-and-scalability)
+    - [5. **Automation and Workflow Integration**](#5-automation-and-workflow-integration)
+    - [6. **Enhanced Multimedia Support**](#6-enhanced-multimedia-support)
+    - [7. **Consistency Across Platforms**](#7-consistency-across-platforms)
+    - [8. **Student-Friendly Accessibility**](#8-student-friendly-accessibility)
+    - [Summary Table](#summary-table)
 
+<br>
 
 ### 1. **Simplicity and Ease of Use**
 

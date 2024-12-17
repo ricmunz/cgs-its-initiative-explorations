@@ -10,6 +10,19 @@
 >
 > We can create customized tools and reports that make it easier to monitor and manage courses while ensuring quality and compliance. These can be enhancements to exisiting Canvas features or new standalone tools.
 
+- [Auditing Course Materials and Data Analysis](#auditing-course-materials-and-data-analysis)
+    - [**1. Course Activity Audits**](#1-course-activity-audits)
+    - [**2. Materials Usage Reports**](#2-materials-usage-reports)
+    - [**3. Student Progress and Performance Reports**](#3-student-progress-and-performance-reports)
+    - [**4. Course Consistency Audits**](#4-course-consistency-audits)
+    - [**5. Accessibility Compliance Audits**](#5-accessibility-compliance-audits)
+    - [**6. Custom Report Generation**](#6-custom-report-generation)
+    - [**7. End-of-Term Reports**](#7-end-of-term-reports)
+    - [**8. Faculty Collaboration and Feedback Reports**](#8-faculty-collaboration-and-feedback-reports)
+    - [Summary Table](#summary-table)
+
+<br>
+
 ### **1. Course Activity Audits**
 
 - **What it does**: This feature tracks and logs all interactions within the course, including changes made to course materials, assignment submissions, student participation, and grading activities. It provides detailed records of who made each change and when it occurred.
@@ -87,4 +100,4 @@
 
 ---
 
-[**Next Page:** Panopto Canvas Integration via API Examples](panpto-canvas-integration.md)
+[**Next Page:** Panopto Canvas Integration via API Examples](panopto-canvas-integration.md)

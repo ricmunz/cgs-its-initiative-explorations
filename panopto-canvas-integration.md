@@ -8,6 +8,18 @@
 >
 > Here are several real-world application examples where **Panopto** and **Canvas** can work together to enhance course materials, leveraging Panopto's video hosting and management features:
 
+- [Panopto-Canvas Integration via API Examples](#panopto-canvas-integration-via-api-examples)
+    - [1. **Automatic Video Embedding and Linking**](#1-automatic-video-embedding-and-linking)
+    - [2. **Lecture Recording and Auto-Upload**](#2-lecture-recording-and-auto-upload)
+    - [3. **Personalized Video Recommendations Based on Student Progress**](#3-personalized-video-recommendations-based-on-student-progress)
+    - [4. **Video-based Quizzes and Assessments**](#4-video-based-quizzes-and-assessments)
+    - [5. **Real-Time Video Analytics for Faculty and Administrators**](#5-real-time-video-analytics-for-faculty-and-administrators)
+    - [6. **Student-Generated Video Content**](#6-student-generated-video-content)
+    - [7. **Transcript and Closed Captioning Integration**](#7-transcript-and-closed-captioning-integration)
+    - [8. **Live Streaming of Events or Lectures**](#8-live-streaming-of-events-or-lectures)
+    - [9. **Content Analytics for Faculty Improvement**](#9-content-analytics-for-faculty-improvement)
+    - [10. **Instructor-Facilitated Video Discussions**](#10-instructor-facilitated-video-discussions)
+    - [Summary Table](#summary-table)
 
 <br>
 
@@ -108,11 +120,6 @@
 > By leveraging Panopto’s video hosting, recording, and management capabilities with Canvas' course structure and LMS features, institutions can create an enhanced learning experience that integrates video content in meaningful ways, supports faculty and student engagement, and provides analytics for continuous improvement. These tools can improve accessibility, content delivery, and offer new avenues for interactive, multimedia-based education.
 
 <br>
-
-
-
-
-
 
 <br><br><br>
 
